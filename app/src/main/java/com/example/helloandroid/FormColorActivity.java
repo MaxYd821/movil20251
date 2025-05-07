@@ -33,7 +33,6 @@ public class FormColorActivity extends AppCompatActivity {
     Button btnDelete;
     EditText etColorName;
     EditText etColorHex;
-
     String colorId;
 
     @Override

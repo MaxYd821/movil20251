@@ -9,9 +9,9 @@
               <option name="connection">
                 <ConnectionSetting>
                   <option name="appId" value="com.example.helloandroid" />
-                  <option name="mobileSdkAppId" value="1:568236307398:android:0fe6d251ceac5cf37238c7" />
-                  <option name="projectId" value="colorsappv2" />
-                  <option name="projectNumber" value="568236307398" />
+                  <option name="mobileSdkAppId" value="1:159225682529:android:ec4f13c86d0fc1b8246820" />
+                  <option name="projectId" value="contactoapp-97f13" />
+                  <option name="projectNumber" value="159225682529" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
