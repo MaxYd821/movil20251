@@ -1,13 +1,14 @@
 {
   "project_info": {
-    "project_number": "568236307398",
-    "project_id": "colorsappv2",
-    "storage_bucket": "colorsappv2.firebasestorage.app"
+    "project_number": "159225682529",
+    "firebase_url": "https://contactoapp-97f13-default-rtdb.firebaseio.com",
+    "project_id": "contactoapp-97f13",
+    "storage_bucket": "contactoapp-97f13.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:568236307398:android:0fe6d251ceac5cf37238c7",
+        "mobilesdk_app_id": "1:159225682529:android:ec4f13c86d0fc1b8246820",
         "android_client_info": {
           "package_name": "com.example.helloandroid"
         }
@@ -15,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAL3lOoPp4tKmiFKoZxXIJp1-Ap-VUq2MQ"
+          "current_key": "AIzaSyDgLXqSxOMWySUlTo-j081t0IE-H2s8QjU"
         }
       ],
       "services": {
